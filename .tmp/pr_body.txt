@@ -1,0 +1,8 @@
+Add docs/README.md as the entry point and summary for OctoAcme project management processes. Includes a brief overview, key principles, a 4-paragraph process summary, and table of contents with links to each document in docs/.
+
+Acceptance criteria:
+- Content aligns with existing process docs.
+- Update improves clarity and discoverability.
+- README serves as a central entry point linking to the process documents.
+
+Closes #2
